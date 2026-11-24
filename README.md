@@ -1,6 +1,6 @@
 # Hi there, I'm Mobien Shoaib! 👋
 
-**Radar Signal Processing Engineer | PhD in Telecommunications**
+**Signal Processing Engineer | PhD in Telecommunications**
 
 I am a signal processing enthusiast with a journey ranging from sub-band echo cancellation to passive radar product development. I value practical simplicity over academic complexity.
 
